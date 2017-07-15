@@ -1,0 +1,19 @@
+{
+  "name": "mega-link-available",
+  "version": "0.0.0",
+  "description": "Check if MEGA links is available",
+  "license": "MIT",
+  "repository": "jlobos/mega-link-available",
+  "author": "Jesus Lobos <jlobitu@gmail.com> (https://jlobos.com/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && ava"
+  },
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1"
+  },
+  "devDependencies": {
+    "ava": "^0.21.0",
+    "standard": "^10.0.2"
+  }
+}

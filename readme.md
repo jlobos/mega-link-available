@@ -1,0 +1,1 @@
+# is-mega-link-available
