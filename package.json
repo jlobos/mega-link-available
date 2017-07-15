@@ -9,6 +9,19 @@
   "scripts": {
     "test": "standard && ava"
   },
+  "engines": {
+    "node": ">=8"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "mega",
+    "storage",
+    "link",
+    "check",
+    "available"
+  ],
   "dependencies": {
     "isomorphic-fetch": "^2.2.1"
   },
